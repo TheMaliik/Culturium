@@ -16,8 +16,8 @@ public class SmsSender {
     }
 
     // twilio.com/console
-    public static final String ACCOUNT_SID = "AC00b572fc076413d97f90c5481f1f9c23";
-    public static final String AUTH_TOKEN = "3db1a8cb32090bc839fffee9202a0899";
+    public static final String ACCOUNT_SID = "";
+    public static final String AUTH_TOKEN = "";
 
     public static void main(String[] args) {
 
