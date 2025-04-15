@@ -7,8 +7,8 @@ import javax.mail.internet.*;
 public class mail {
     final String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
     Properties props = System.getProperties();
-    static final String user = "guesmimelek928@gmail.com";
-    static final String pass = "zdjgcsdpweeokktb";
+    static final String user = "";
+    static final String pass = "";
 
     public void envoyer(String Toemail, String Subject, String Object) {
 
